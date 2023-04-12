@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redux-job/static/css/main.249a27f8.css",
+    "main.js": "/redux-job/static/js/main.c316e81d.js",
+    "static/media/bg-header-desktop.svg": "/redux-job/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/redux-job/index.html",
+    "static/media/bg-header-mobile.svg": "/redux-job/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/redux-job/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.249a27f8.css.map": "/redux-job/static/css/main.249a27f8.css.map",
+    "main.c316e81d.js.map": "/redux-job/static/js/main.c316e81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249a27f8.css",
+    "static/js/main.c316e81d.js"
+  ]
+}
